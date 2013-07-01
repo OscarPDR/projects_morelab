@@ -1,7 +1,7 @@
 projects_morelab
 ===========
 
-Web app to manage data within the [![MORElab](http://www.morelab.deusto.es/)] research group at [![DeustoTech, Deusto Institute of Technology](http://deustotech.eu/)].
+Web app to manage data within the [MORElab](http://www.morelab.deusto.es/) research group at [DeustoTech, Deusto Institute of Technology](http://deustotech.eu/).
 
 In order to have the application fully running all the features correctly, the following parameters need to be filled:
 
@@ -55,4 +55,4 @@ There are some fixtures existing inside each app. They can be uploaded when the 
 
 # Launch D2RQ
 
-In order to publish all the data in RDF format, allowing SPARQL queries to be performed, a [![D2RQ](http://d2rq.org/)] server must be launched. The mapping file can be found in rdf/mapping.ttl, together with relevant documents for the publication following the Linked Data principles.
+In order to publish all the data in RDF format, allowing SPARQL queries to be performed, a [D2RQ](http://d2rq.org/) server must be launched. The mapping file can be found in rdf/mapping.ttl, together with relevant documents for the publication following the Linked Data principles.
